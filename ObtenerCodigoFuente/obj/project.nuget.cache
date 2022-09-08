@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GAqMldslHiBcSgcIL6Q8ECd4v5Qfy9tZ/JaNaBK/nIgua6Pq+v2V5KMWD7scohwTCl/L/SQU3y3KorCPaWHx5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sdc_s\\Documents\\Pruebas con Selenium\\ObtenerCodigoFuente\\ObtenerCodigoFuente.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sdc_s\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\sdc_s\\.nuget\\packages\\selenium.support\\4.4.0\\selenium.support.4.4.0.nupkg.sha512",
+    "C:\\Users\\sdc_s\\.nuget\\packages\\selenium.webdriver\\4.4.0\\selenium.webdriver.4.4.0.nupkg.sha512",
+    "C:\\Users\\sdc_s\\.nuget\\packages\\selenium.webdriver.chromedriver\\105.0.5195.5200\\selenium.webdriver.chromedriver.105.0.5195.5200.nupkg.sha512"
+  ],
+  "logs": []
+}
